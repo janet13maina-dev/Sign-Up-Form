@@ -43,6 +43,11 @@ body{
         text-align: center;
        
   }
+.highlight{
+    color: hsl(0, 100%, 50%);
+    text-shadow: 0 0 5px hsl(276, 93%, 46%);
+    font-weight: bold;
+}
  p{
         color: white;
         
